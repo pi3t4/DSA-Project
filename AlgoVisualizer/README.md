@@ -68,7 +68,7 @@ This project showcases the functionality of popular sorting algorithms, includin
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/jhon/AlgoVisualAlyzer.git
+   git clone https://github.com/pi3t4/AlgoVisualAlyzer.git
    cd AlgoVisualAlyzer
    pip install -r requirements.txt
    python Algovisual.py
